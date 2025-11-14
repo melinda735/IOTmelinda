@@ -4,3 +4,6 @@ https://wokwi.com/projects/446939823407452161
 
 project 2: control lampu
 https://wokwi.com/projects/new/arduino-uno
+
+project 3: 
+https://wokwi.com/projects/447573922324013057
